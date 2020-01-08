@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HilariousCarts.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{16C6F0DA-802E-4FA3-AFAE-4BA4354CDDC2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HilariousCarts.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HilariousCartsEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{B4089F10-DE6D-4021-91F2-7B94B74F9C04}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\HilariousCarts">
+      <UniqueIdentifier>{0B45D339-51D5-4A30-840D-C8487D120552}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HilariousCarts\HilariousCarts.Build.cs">
+      <Filter>Source\HilariousCarts</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HilariousCarts\HilariousCarts.cpp">
+      <Filter>Source\HilariousCarts</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HilariousCarts\HilariousCarts.h">
+      <Filter>Source\HilariousCarts</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HilariousCarts\HilariousCartsGameMode.cpp">
+      <Filter>Source\HilariousCarts</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HilariousCarts\HilariousCartsGameMode.h">
+      <Filter>Source\HilariousCarts</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HilariousCarts\HilariousCartsHud.cpp">
+      <Filter>Source\HilariousCarts</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HilariousCarts\HilariousCartsHud.h">
+      <Filter>Source\HilariousCarts</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HilariousCarts\HilariousCartsPawn.cpp">
+      <Filter>Source\HilariousCarts</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HilariousCarts\HilariousCartsPawn.h">
+      <Filter>Source\HilariousCarts</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HilariousCarts\HilariousCartsWheelFront.cpp">
+      <Filter>Source\HilariousCarts</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HilariousCarts\HilariousCartsWheelFront.h">
+      <Filter>Source\HilariousCarts</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HilariousCarts\HilariousCartsWheelRear.cpp">
+      <Filter>Source\HilariousCarts</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HilariousCarts\HilariousCartsWheelRear.h">
+      <Filter>Source\HilariousCarts</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
